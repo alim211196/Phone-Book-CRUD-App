@@ -1,6 +1,6 @@
 # Phone-Book-CRUD-App
 
-sorry i have added both backend and frontend folders in a same repository so you need to open both folder seperately in visual studio and run both accordingly by given below steps. 
+sorry i have added both backend and frontend folders in a same repository so you need to open both folders separately in visual studio and run both accordingly by given below steps.
 
 
 #backend
